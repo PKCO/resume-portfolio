@@ -18,7 +18,6 @@ a {
     height: 100vh; /* Set height to 100vh for large screens */
     background: url(port1.jpg);
     background-size: cover; /* Ensure the image covers the section */
-    background-position: center; /* Center the background image */
 }
 nav {
   display: flex;
